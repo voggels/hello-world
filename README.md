@@ -1,6 +1,2 @@
 # hello-world
-trial repository
-hello hello!
-:)
-:)
-:)
+trial repo
